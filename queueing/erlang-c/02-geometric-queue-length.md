@@ -4,13 +4,8 @@
 
 The goal is to understand connection-pool checkout failures from first principles rather than treating Erlang-C as a black-box formula.
 
-The eventual result we want to understand is:
-$$
-P(\text{fail})
-=
-C(c,a)\,
-e^{-(c-a)T/S}
-$$
+The eventual result we want to understand is:  
+$P(\text{fail}) = C(c,a)\, e^{-(c-a)T/S}$  
 where:
 
 - \(c\) = connection-pool size
