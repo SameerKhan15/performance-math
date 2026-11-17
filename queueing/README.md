@@ -49,14 +49,14 @@ These assumptions allow us to derive tractable analytical results. Real-world wo
 
 | Stage | Topic | Notes |
 |---|---|---|
-| 1 | Queueing fundamentals | [01-queueing-fundamentals.md](01-queueing-fundamentals.md) |
-| 2 | State-transition model | [02-state-transition-model.md](02-state-transition-model.md) |
-| 3 | Steady-state flow balance | [03-steady-state-flow-balance.md](03-steady-state-flow-balance.md) |
-| 4 | Geometric tail | [04-geometric-tail.md](04-geometric-tail.md) |
-| 5 | Probability normalization | [05-probability-normalization.md](05-probability-normalization.md) |
-| 6 | Erlang-C derivation | [06-erlang-c-derivation.md](06-erlang-c-derivation.md) |
-| 7 | Waiting-time distribution | [07-wait-time-distribution.md](07-wait-time-distribution.md) |
-| 8 | Connection-pool sizing | [08-connection-pool-sizing.md](08-connection-pool-sizing.md) |
+| 1 | Queueing fundamentals | [1-queueing-fundamentals.md](1-queueing-fundamentals.md) |
+| 2 | State-transition model | [2-state-transition-model.md](2-state-transition-model.md) |
+| 3 | Steady-state flow balance | [3-steady-state-flow-balance.md](3-steady-state-flow-balance.md) |
+| 4 | Geometric tail | [4-geometric-tail.md](4-geometric-tail.md) |
+| 5 | Probability normalization | [5-probability-normalization.md](5-probability-normalization.md) |
+| 6 | Erlang-C derivation | [6-erlang-c-derivation.md](6-erlang-c-derivation.md) |
+| 7 | Waiting-time distribution | [7-wait-time-distribution.md](7-wait-time-distribution.md) |
+| 8 | Connection-pool sizing | [8-connection-pool-sizing.md](8-connection-pool-sizing.md) |
 
 Each stage builds on the preceding stages. The emphasis is on deriving each result rather than memorizing formulas.
 
