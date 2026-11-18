@@ -367,13 +367,8 @@ These two event processes compete.
 
 The probability that the next event is an arrival is:
 
-$$
-{
-P(\text{arrival next}\mid n)
-=
-\frac{\lambda}{\lambda+\mu_n}
-}
-$$
+$${ P(\text{arrival next}\mid n) = \frac{\lambda}{\lambda+\mu_n} }$$
+$${P(\text{arrival next | n})} $$
 
 The probability that the next event is a completion is:
 
