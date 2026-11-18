@@ -294,7 +294,13 @@ $$
 $$
 
 Equivalently:  
-$$ \mu_n = \begin{cases} n\mu, & 0 \le n < c \\ c\mu, & n \ge c \end{cases} $$
+$$
+\mu_n =
+\begin{cases}
+n\mu, & 0 \le n < c \\
+c\mu, & n \ge c
+\end{cases}
+$$
 
 ### Completion Rate by State
 
