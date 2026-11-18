@@ -119,6 +119,4 @@ The mathematical concepts apply to:
 
 ## Reference Architecture
 
-The primary motivating case study examines the performance and scalability implications of **database connection-pool fragmentation**, where connections are partitioned across application instances. This can lead to connection checkout delays and timeouts even when aggregate database connection capacity remains available. The case study explores how shared connection pooling and multiplexing can improve resource utilization, reduce queueing delays, and increase system resilience.
-
-Its Erlang-C analysis provides a concrete application of the mathematical model developed in this module.
+The primary motivating case study examines the performance and scalability implications of **database connection-pool fragmentation**, where connections are partitioned across application instances. This can lead to connection checkout delays and timeouts even when aggregate database connection capacity remains available. The case study explores how shared connection pooling and multiplexing can improve resource utilization, reduce queueing delays, and increase system resilience.  
