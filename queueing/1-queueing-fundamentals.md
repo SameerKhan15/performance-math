@@ -559,7 +559,7 @@ $$
 $$
 
 $$
-\rho=\frac45=\boxed{80\%}
+\rho=\frac45={80\%}
 $$
 
 ### Average Queue Length
