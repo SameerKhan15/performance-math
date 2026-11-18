@@ -395,13 +395,9 @@ $$P(\text{arrival next}\mid n=2)=60\text{perc}$$
 
 **Probability of a completion occurring next:**
 
-$$
-P(\text{completion next}\mid n=2)
-=
-\frac{20}{30+20}
-$$
+$$P(\text{completion next}\mid n=2)=\frac{20}{30+20}$$
 
-$${P(\text{completion next}\mid n=2)=40\%}$$
+$${P(\text{completion next}\mid n=2)=40\text{perc}}$$
 
 Therefore:
 
