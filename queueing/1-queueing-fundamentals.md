@@ -227,7 +227,9 @@ $$
 \rho = \frac{3}{4}
 $$
 
-$\boxed{\rho = 0.75 = 75\%}$
+$$
+\rho = 0.75 = 75\%
+$$
 
 ### Physical Interpretation
 
