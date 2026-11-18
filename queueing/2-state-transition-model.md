@@ -368,17 +368,10 @@ These two event processes compete.
 The probability that the next event is an arrival is:
 
 $${ P(\text{arrival next}\mid n) = \frac{\lambda}{\lambda+\mu_n} }$$
-$${P(\text{arrival next | n})} $$
 
 The probability that the next event is a completion is:
 
-$$
-\boxed{
-P(\text{completion next}\mid n)
-=
-\frac{\mu_n}{\lambda+\mu_n}
-}
-$$
+$${ P(\text{completion next}\mid n) = \frac{\mu_n}{\lambda+\mu_n} }$$
 
 These relationships apply for $n>0$. In state 0, no service completion is possible, so the next transition must be an arrival.
 
