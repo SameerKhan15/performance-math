@@ -620,7 +620,7 @@ Both approaches produce the same result.
 
 ## 14. Next Stage
 
-**[02 — State-Transition Model](02-state-transition-model.md)**
+**[2 — State-Transition Model](2-state-transition-model.md)**
 
 We will model the connection pool as a sequence of states, where each state represents the total number of requests in the system.
 
