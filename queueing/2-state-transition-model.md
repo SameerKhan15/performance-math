@@ -389,15 +389,9 @@ $$
 
 **Probability of an arrival occurring next:**
 
-$$
-P(\text{arrival next}\mid n=2)
-=
-\frac{30}{30+20}
-$$
+$$P(\text{arrival next}\mid n=2) = \frac{30}{30+20}$$
 
-$$
-\boxed{P(\text{arrival next}\mid n=2)=60\%}
-$$
+$${P(\text{arrival next}\mid n=2)=60\%}$$
 
 **Probability of a completion occurring next:**
 
@@ -407,9 +401,7 @@ P(\text{completion next}\mid n=2)
 \frac{20}{30+20}
 $$
 
-$$
-\boxed{P(\text{completion next}\mid n=2)=40\%}
-$$
+$${P(\text{completion next}\mid n=2)=40\%}$$
 
 Therefore:
 
