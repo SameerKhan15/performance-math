@@ -422,15 +422,9 @@ $${P(\text{completion next}\mid n=4) = 57.14\text{perc}}$$
 
 The probability that the next event is an arrival is:
 
-$$
-P(\text{arrival next}\mid n=4)
-=
-\frac{30}{70}
-$$
+$$P(\text{arrival next}\mid n=4)=\frac{30}{70}$$
 
-$$
-\boxed{P(\text{arrival next}\mid n=4)\approx42.86\%}
-$$
+$${P(\text{arrival next}\mid n=4)\approx42.86\text{perc}}$$
 
 Thus, a completion is more likely to occur next, although an arrival remains possible.
 
