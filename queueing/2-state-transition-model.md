@@ -416,15 +416,9 @@ $$
 
 The probability that the next event is a completion becomes:
 
-$$
-P(\text{completion next}\mid n=4)
-=
-\frac{40}{30+40}
-$$
+$$P(\text{completion next}\mid n=4) = \frac{40}{30+40}$$
 
-$$
-\boxed{P(\text{completion next}\mid n=4)\approx57.14\%}
-$$
+$${P(\text{completion next}\mid n=4) = 57.14\text{perc}}$$
 
 The probability that the next event is an arrival is:
 
