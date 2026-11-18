@@ -583,13 +583,13 @@ Probability of an arrival:
 
 $$P(\text{arrival next}\mid n=7) = \frac{12}{12+15}$$
 
-$${\approx44.44\%}$$
+$${44.44\text{perc}}$$
 
 Probability of a completion:
 
 $$P(\text{completion next}\mid n=7) = \frac{15}{12+15}$$
 
-$${\approx55.56\%}$$
+$${55.56\text{perc}}$$
 
 The next event is more likely to be a completion, but either transition remains possible.
 
