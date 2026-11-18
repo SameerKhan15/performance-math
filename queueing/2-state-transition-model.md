@@ -293,9 +293,6 @@ $$
 \boxed{\mu_n=\min(n,c)\mu}
 $$
 
-Equivalently:  
-$$ \mu_n = \begin{cases} n\mu, & 0 \le n < c \\ c\mu, & n \ge c \end{cases} $$
-
 ### Completion Rate by State
 
 | State $n$ | Busy connections | Completion rate |
@@ -371,7 +368,7 @@ These two event processes compete.
 The probability that the next event is an arrival is:
 
 $$
-\boxed{
+{
 P(\text{arrival next}\mid n)
 =
 \frac{\lambda}{\lambda+\mu_n}
