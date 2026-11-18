@@ -293,13 +293,12 @@ $$
 \boxed{\mu_n=\min(n,c)\mu}
 $$
 
-Equivalently:
-
+Equivalently:  
 $$
-\mu_n=
+\mu_n =
 \begin{cases}
-n\mu, & 0\leq n<c \\
-c\mu, & n\geq c
+n\mu, & 0 \le n < c, \\
+c\mu, & n \ge c.
 \end{cases}
 $$
 
