@@ -435,7 +435,7 @@ $$
 
 ## 13. Next Stage
 
-**[04 — Geometric Tail](04-geometric-tail.md)**
+**[4 — Geometric Tail](4-geometric-tail.md)**
 
 We'll examine states $n>c$ where all servers are already busy. Since the aggregate completion rate is now constant, we'll show how the state-probability ratios become constant:
 
