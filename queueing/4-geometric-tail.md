@@ -574,9 +574,7 @@ $$
 
 The stability requirement becomes:
 
-$$
-\boxed{a<c}
-$$
+$$a < c$$
 
 ### Key Insight
 
@@ -622,13 +620,7 @@ $$
 
 Now subtract:
 
-$$
-G-\rho G
-=
-(1+\rho+\rho^2+\cdots)
--
-(\rho+\rho^2+\rho^3+\cdots)
-$$
+$$G-\rho G = (1+\rho+\rho^2+\cdots) - (\rho+\rho^2+\rho^3+\cdots)$$
 
 All terms except the initial 1 cancel:
 
