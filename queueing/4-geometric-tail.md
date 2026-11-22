@@ -741,19 +741,11 @@ $$
 
 Therefore:
 
-$$
-P(N\ge c)
-=
-P_c+P_c\rho+P_c\rho^2+\cdots
-$$
+$$P(N\ge c) = P_c+P_c\rho+P_c\rho^2+\cdots$$
 
 Factor out $P_c$:
 
-$$
-P(N\ge c)
-=
-P_c(1+\rho+\rho^2+\cdots)
-$$
+$$P(N\ge c)=P_c(1+\rho+\rho^2+\cdots)$$
 
 We have just derived:
 
