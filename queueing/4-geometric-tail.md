@@ -1013,11 +1013,7 @@ $$
 
 ### Step 5: Sum the Busy-State Probabilities
 
-$$
-P(N\ge4)
-=
-P_4(1+0.75+0.75^2+\cdots)
-$$
+$$P(N\ge4)=P_4(1+0.75+0.75^2+\cdots)$$
 
 The geometric series evaluates to:
 
@@ -1147,15 +1143,11 @@ The analytical model remains useful for building intuition and establishing a ba
 
 4. Consequently, the ratio between successive state probabilities becomes constant:
 
-   $$
-   \frac{P_{n+1}}{P_n}=\rho,\qquad n\ge c
-   $$
+   $$\frac{P_{n+1}}{P_n}=\rho,\qquad n\ge c$$
 
 5. This produces the geometric tail:
 
-   $$
-   \boxed{P_{c+k}=P_c\rho^k}
-   $$
+   $${P_{c+k}=P_c\rho^k}$$
 
 6. A stable unlimited-queue system requires $\rho<1$ so the geometric state probabilities can be normalized.
 
@@ -1163,9 +1155,7 @@ The analytical model remains useful for building intuition and establishing a ba
 
 8. The total probability of these busy states is:
 
-   $$
-   \boxed{P(N\ge c)=\frac{P_c}{1-\rho}}
-   $$
+   $${P(N\ge c)=\frac{P_c}{1-\rho}}$$
 
 9. Under Poisson arrivals, this also represents the probability that an arriving request must wait.
 
@@ -1195,7 +1185,7 @@ $$
 
 ## 18. Next Stage
 
-**[05 — Probability Normalization](05-probability-normalization.md)**
+**[5 — Probability Normalization](5-probability-normalization.md)**
 
 We have derived all state probabilities relative to $P_0$.
 
