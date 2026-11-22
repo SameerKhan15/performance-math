@@ -851,21 +851,11 @@ $$
 
 Substituting:
 
-$$
-P(\text{wait})
-=
-\frac{a^c}{c!}\frac{1}{1-\rho}P_0
-$$
+$$P(\text{wait})=\frac{a^c}{c!}\frac{1}{1-\rho}P_0$$
 
 Therefore:
 
-$$
-\boxed{
-P(\text{wait})
-=
-\frac{a^c}{c!}\frac{P_0}{1-\rho}
-}
-$$
+$${ P(\text{wait})=\frac{a^c}{c!}\frac{P_0}{1-\rho} }$$
 
 This expresses the waiting probability in terms of the still-unknown empty-system probability $P_0$.
 
